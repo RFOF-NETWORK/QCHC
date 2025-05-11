@@ -86,3 +86,154 @@ Für weitere Fragen oder Informationen kontaktiere uns unter: [info@rfofspiderne
 Wir freuen uns darauf, talentierte Skill Hacker in unserer Community willkommen zu heißen\!
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+# 🚀 QCHC - Die Schmiede der GitHub Skill Hacker 🛠️
+
+Willkommen im Herzen der Innovation! QCHC ist die Heimat für hochspezialisierte GitHub Skill Hacker, die die Grenzen des Machbaren verschieben. Bist du bereit, deine Expertise einzubringen und die Zukunft mitzugestalten?
+
+## 🚪 Tritt unserer Elite bei!
+
+Klicke, um deinen Weg in die QCHC-Community zu starten:
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/issues/new?assignees=&labels=Bewerbung&template=bewerbungsformular.md&title=Bewerbung%20als%20Skill%20Hacker">
+    <img src="https://img.shields.io/badge/🚀%20Werde%20ein%20Skill%20Hacker-jetzt%20bewerben!-blueviolet?style=for-the-badge&logo=github" alt="Bewirb dich als Skill Hacker">
+  </a>
+</p>
+
+## ⚙️ Der Bewerbungsprozess: So funktioniert's
+
+1.  **Klick:** Betätige den "Werde ein Skill Hacker"-Button.
+2.  **Formular:** Fülle das erscheinende Bewerbungsformular sorgfältig aus.
+3.  **Pull Request:** Deine Bewerbung wird als Pull Request eingereicht.
+4.  **Review:** Unser Admin-Team prüft deine Skills.
+5.  **Willkommen!** Bei erfolgreicher Prüfung wirst du Teil von QCHC.
+
+## 📝 Dein Bewerbungs-Blueprint
+
+*(Dieses Formular öffnet sich automatisch nach dem Klick auf den Button)*
+
+```markdown
+### 🧑‍💻 Bewerbung als QCHC Skill Hacker
+
+**GitHub Profil:**
+````
+
+[@DeinGitHubUsername](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/DeinGitHubUsername)
+
+```
+
+**Deine E-Mail:**
+```
+
+[Deine.Email@adresse.de]
+
+```
+
+**Skill-Level:** (Anfänger, Fortgeschritten, Experte)
+```
+
+[Dein Skill-Level in deinen Kernkompetenzen]
+
+```
+
+**Deine Superkräfte (GitHub Skills):**
+```
+
+  - [ ] GitHub Actions
+  - [ ] CI/CD Pipelines
+  - [ ] Security Best Practices
+  - [ ] Repository Automatisierung
+  - [ ] Collaboration & Reviews
+  - [ ] Andere: [Deine spezifischen Skills]
+
+<!-- end list -->
+
+```
+
+**Deine Mission bei QCHC:**
+```
+
+[Beschreibe, wie du dich einbringen möchtest und welche Ziele du verfolgst]
+
+```
+```
+
+## ⏳ Warte nicht, werde ein "Enthusiast"\!
+
+Auch wenn es gerade keine offene Position gibt, kannst du dich als "Enthusiast" registrieren und bleibst auf dem Laufenden:
+
+\<p align="center"\>
+\<a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/issues/new?assignees=\&labels=Waiting%20Hacker\&template=waiting\_hacker.md\&title=Registrierung%20als%20Enthusiast"\>
+\<img src="https://img.shields.io/badge/🔭%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge\&logo=eye" alt="Werde ein Enthusiast"\>
+\</a\>
+\</p\>
+
+## 🗣️ Die Diskussionsrunde (Pull Requests)
+
+Alle Bewerbungen und neuen Gesichter findest du hier:
+
+\<p align="center"\>
+\<a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/pulls"\>
+\<img src="https://img.shields.io/badge/Pull%20Requests-%F0%9F%93%92%20ansehen-success?style=for-the-badge\&logo=git-pull-request" alt="Zu den Pull Requests"\>
+\</a\>
+\</p\>
+
+## 📧 Kontakt zum Kernteam
+
+Fragen? Anregungen? Schreib uns: \<a href="mailto:info@rfofspidernet.de"\>info@rfofspidernet.de\</a\>
+
+-----
+
+Gemeinsam gestalten wir die Zukunft der GitHub-Expertise\! ✨
+
+````
+
+**Was ist hier innovativer?**
+
+* **Emojis:** Visuell ansprechender und lockerer Ton.
+* **Badges mit Logos:** Die Buttons sind nun mit Icons versehen, was sie intuitiver macht.
+* **Strukturierte Formularvorlage:** Das Bewerbungsformular ist übersichtlicher gestaltet mit Checkboxen für Skills (die im Issue als einfacher Text erscheinen, aber die Idee vermitteln).
+* **Klarere Call-to-Actions:** Die Überschriften und Button-Texte sind prägnanter.
+* **Visuelle Trenner:** Der horizontale Strich (`---`) sorgt für bessere Lesbarkeit.
+* **Ausrichtung:** Zentrierte Buttons für eine fokussiertere Optik.
+
+**Die notwendigen Dateien im `.github/ISSUE_TEMPLATE`-Ordner bleiben gleich:**
+
+* `bewerbungsformular.md` (Inhalt müsste entsprechend der neuen Formularvorlage angepasst werden)
+* `waiting_hacker.md`
+
+**Inhalt der neuen `bewerbungsformular.md`:**
+
+```markdown
+### 🧑‍💻 Bewerbung als QCHC Skill Hacker
+
+**GitHub Profil:**
+[@DeinGitHubUsername](https://github.com/DeinGitHubUsername)
+
+**Deine E-Mail:**
+[Deine.Email@adresse.de]
+
+**Skill-Level:** (Anfänger, Fortgeschritten, Experte)
+[Dein Skill-Level in deinen Kernkompetenzen]
+
+**Deine Superkräfte (GitHub Skills):**
+- [ ] GitHub Actions
+- [ ] CI/CD Pipelines
+- [ ] Security Best Practices
+- [ ] Repository Automatisierung
+- [ ] Collaboration & Reviews
+- [ ] Andere: [Deine spezifischen Skills]
+
+**Deine Mission bei QCHC:**
+[Beschreibe, wie du dich einbringen möchtest und welche Ziele du verfolgst]
