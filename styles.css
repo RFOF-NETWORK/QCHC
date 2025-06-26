@@ -1,0 +1,157 @@
+/* QCH-L-C - styles.css */
+
+/* --- Globale Basis-Styles (für Header, Footer und allgemeines Layout-Verhalten) --- */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    scroll-behavior: smooth;
+    font-family: 'Roboto', sans-serif; /* Consistently apply Roboto */
+}
+
+body {
+    background-color: #FFFFFF; /* White background for the entire page */
+    color: #333333; /* Dark text for contrast on white background */
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header Styling - Aligned with global design */
+.main-header {
+    background-color: #FFFFFF; /* White header background */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Light shadow */
+    padding: 10px 0; /* Vertical padding */
+    z-index: 100;
+    position: relative;
+    border-bottom: 1px solid #E0E0E0; /* Light gray border */
+}
+
+.header-content {
+    max-width: 960px; /* Constrain header content to align with main content */
+    margin: 0 auto; /* Center the header content */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px; /* Horizontal padding for content inside header */
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.site-title { /* Text title in the header */
+    color: #0088cc; /* Telegram/TON Blue */
+    font-family: 'Orbitron', sans-serif; /* Use Orbitron for titles */
+    font-size: 2.2em; /* Adjusted for QCH-L-C title length to fit */
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    flex-shrink: 0;
+    text-shadow: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.2;
+    max-width: calc(100% - 80px); /* Adjust based on hamburger icon space */
+}
+
+/* --- Content Container (assuming it has some base styling already from QCH-L-C) --- */
+/* If QCH-L-C has its own .content-container, these styles would apply first.
+   If not, they provide a default. */
+.content-container {
+    flex-grow: 1; /* Allows main content to grow and push footer down */
+    max-width: 960px; /* Consistently align main content */
+    margin: 2rem auto;
+    background-color: #FFFFFF; /* Ensure white background for content blocks */
+    padding: 2.5rem; /* Standard padding */
+    border-radius: 8px; /* Standard border radius */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08); /* Standard shadow */
+    box-sizing: border-box;
+}
+
+
+/* --- Footer Styling - Aligned with global design --- */
+footer {
+    background-color: #f0f0f0; /* Lighter footer background */
+    color: #333333; /* Dark text for footer */
+    text-align: center;
+    padding: 1.5rem 1rem;
+    margin-top: 3rem;
+    font-size: 0.9em;
+    border-top: 1px solid #e0e0e0;
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.05);
+}
+footer p {
+    margin-bottom: 5px;
+}
+footer a {
+    color: #0088cc;
+}
+footer a:hover {
+    color: #00aaff;
+}
+
+/* --- "Improve this page" Container - Aligned with global design --- */
+.improve-page-container {
+    text-align: center;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #333333;
+    font-size: 1em;
+}
+
+.improve-page-container p {
+    margin: 0;
+    color: #333333;
+}
+
+.improve-page-container a.improve-page-link {
+    color: #0088cc;
+    text-decoration: underline;
+    font-weight: bold;
+    text-shadow: none;
+}
+
+.improve-page-link:hover {
+    color: #00aaff;
+}
+
+/* --- Responsive Adjustments (General, will be fine-tuned by menu_styles.css for nav) --- */
+@media (max-width: 768px) {
+    .site-title {
+        font-size: 1.8em;
+        max-width: calc(100% - 60px); /* Adjust for smaller screens */
+    }
+    .header-content {
+        padding: 0 15px;
+    }
+    .content-container {
+        padding: 1.5rem;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .text-content h1, .text-content h2, .text-content h3 {
+        font-size: 2em; /* Adjust main content headings */
+    }
+}
+
+/* --- QCH-L-C Specific Badge Button Styles (from your provided README) --- */
+.badge-button-container {
+    text-align: center;
+    margin: 2rem 0;
+}
+.badge-button-container a {
+    display: inline-block; /* Allow spacing between buttons */
+    margin: 0 10px;
+}
+.badge-button-container img {
+    max-width: 100%; /* Ensure badges scale down on mobile */
+    height: auto;
+    display: inline-block; /* Keep images aligned if multiple */
+}
