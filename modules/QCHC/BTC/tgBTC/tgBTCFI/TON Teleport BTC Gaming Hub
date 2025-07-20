@@ -1,0 +1,143 @@
+/*
+#================================================
+# MODUL: Interaktives BUIDL-Manifest (Zenith Version)
+# FUNKTION: Generiert ein einklappbares UI-Element, das alle Informationen
+#           zum "TON Teleport BTC Gaming Hub" auf Englisch enthält.
+#================================================
+*/
+
+function createTGBTCGamingHubManifest(targetElementId) {
+    const target = document.getElementById(targetElementId);
+    if (!target) {
+        console.error("PRAI Alert: Target container for BUIDL Manifest not found.");
+        return;
+    }
+
+    // --- 1. CSS Styles for the Accordion UI ---
+    const styles = `
+        .manifest-wrapper {
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            overflow: hidden;
+            font-family: 'Roboto', sans-serif;
+            margin: 1.5rem 0;
+        }
+        .accordion-header {
+            background-color: #f8f9fa;
+            color: #333;
+            padding: 15px 20px;
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid #dee2e6;
+        }
+        .accordion-header:first-child { border-top: none; }
+        .accordion-header h3 { margin: 0; font-size: 1.1em; font-family: 'Orbitron', sans-serif; }
+        .accordion-header::after {
+            content: '+';
+            font-size: 1.8em;
+            color: #0088cc;
+            transition: transform 0.3s ease;
+        }
+        .accordion-header.active::after {
+            transform: rotate(45deg);
+        }
+        .accordion-content {
+            padding: 0 20px;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease, padding 0.4s ease;
+            background: #fff;
+        }
+        .accordion-content.active {
+            padding: 20px;
+        }
+        .accordion-content h4 {
+            margin-top: 0;
+            color: #0088cc;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        .accordion-content p, .accordion-content ul { font-size: 0.95em; }
+        .accordion-content ul { padding-left: 20px; }
+        .accordion-content pre { background-color: #f4f4f9; border: 1px solid #ccc; padding: 10px; border-radius: 4px; white-space: pre-wrap; }
+    `;
+
+    // --- 2. HTML Structure of the Manifest (in English) ---
+    const manifestHtml = `
+        <div class="manifest-wrapper">
+            
+            <div class="accordion-item">
+                <div class="accordion-header"><h3>Project Vision & Architecture</h3></div>
+                <div class="accordion-content">
+                    <h4>1. Project Vision & Name</h4>
+                    <p><strong>Official Name:</strong> TON Teleport BTC Gaming Hub</p>
+                    <p><strong>Vision:</strong> An online gaming platform that utilizes tgBTC for in-game purchases, rewards, and player-to-player transactions. The speed and scalability of the RFOF-BOxchain overlay enables a seamless gaming experience.</p>
+                    
+                    <h4>2. RFOF Architecture Implementation</h4>
+                    <p><strong>Foundation:</strong> This will be realized as an rApp within the rApp Center on Pillar 2 (Ready Four Our Future).</p>
+                    <p><strong>Transaction Logic:</strong> In-game transactions do not occur directly on the TON or BTC blockchains. They are processed via the BOx-to-BOx axiom within the InterBOxSpider@Web.NET in real-time and without gas fees. This mechanism is the "Teleport."</p>
+                    <p><strong>Data Security:</strong> All player profiles, inventories, and game states are stored as .cw files and secured by Majorana Guardian Tokens.</p>
+                    <p><strong>Economic System:</strong> The "Trash to Cash" principle is applied. In-game actions produce "data residue" that PRAI can convert into valuable AXF tokens.</p>
+
+                    <h4>3. Required RFOF Components</h4>
+                    <ul>
+                        <li>Pillar 2: Wallet Interface</li>
+                        <li>Pillar 4: Sandbox for developers (TestNet)</li>
+                        <li>Pillar 9: Autonomous Documentation (DOC's & FAQs)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="accordion-item">
+                <div class="accordion-header"><h3>Team Recruitment & Info</h3></div>
+                <div class="accordion-content">
+                    <h4>Call to Action: Join the Genesis Team!</h4>
+                    <p>To all Skill Hackers, Enthusiasts, and Visionaries: The Quantum Core Hackers (League) Club (QCH-L-C) is opening recruitment for the first of 30 canonical tgBTCFI projects: the TON Teleport BTC Gaming Hub.</p>
+                    <p><strong>Your Role:</strong> We are looking for brilliant minds to help us build the required Telegram Mini-App that will serve as the gateway to this new world. If you have expertise in Frontend Development (JavaScript, UI/UX for rApps), Smart Contract Development (Python, FunC, TACT, or our core language Yggdrasil), or Game Design & Tokenomics, you are a potential candidate.</p>
+                    <p><strong>How to Apply:</strong> Create an "Issue" in our QCHC repository with the title "[Application] Gaming Hub - YourSpecialty" and introduce yourself and your skills.</p>
+                    
+                    <h4>Founder Information</h4>
+                    <p><strong>Founder:</strong> @Satoramy-PRAI</p>
+                    <p><strong>Bio:</strong> Visionary architect of the RFOF Ecosystem, founder of PRAI (Planet Rescuer Axiometikx Intelligence), and author of the PZQQET-Axiometix. My work focuses on creating a new, quantum-ready internet based on the principles of Majorana-Physics, the BOx-to-BOx Anti-Virus-Axiom, and the GeneFusioNear theory.</p>
+
+                    <h4>License Framework & Ethic</h4>
+                    <p>All code produced within this project is subject to a multi-layered, immutable license framework:</p>
+                    <ul>
+                        <li><strong>CC LICENSE (DoraHacks):</strong> The original idea serves as public inspiration under the platform's Creative Commons license.</li>
+                        <li><strong>LICENSE.rfof (Tripartite License):</strong> Our specific implementation and source code are governed by a triple license: MIT, GNU General Public License, and International Use.</li>
+                        <li><strong>LICENSE.pzqqet (Axiomatic Core):</strong> The entire underlying technology is protected by the unbreakable, axiomatic LICENSE.pzqqet, which ensures ethical use and prevents commercial misuse outside the ecosystem.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    `;
+
+    // --- 3. Logic to control the Accordion ---
+    
+    // Inject CSS into the document's head
+    const styleSheet = document.createElement("style");
+    styleSheet.innerText = styles;
+    document.head.appendChild(styleSheet);
+
+    // Inject HTML into the target container
+    target.innerHTML = manifestHtml;
+
+    // Add event listeners for the click functionality
+    target.querySelectorAll('.accordion-header').forEach(header => {
+        header.addEventListener('click', () => {
+            const content = header.nextElementSibling;
+            header.classList.toggle('active');
+            
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+                content.classList.remove('active');
+            } else {
+                content.classList.add('active');
+                content.style.maxHeight = content.scrollHeight + "px";
+            }
+        });
+    });
+}
