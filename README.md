@@ -40,16 +40,15 @@ Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull
 WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/issues
-assignees=&labels=Strugled%20Hacker&template=strugled_hacker.md&title=Strugle-Rehabillitation%20als%20Strugled-Hacker">
-    <img src="https://img.shields.io/badge/⚠️%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge&logo=eye" alt="Erkläre deine Strugle">
-  </a>
+<a href="https://www.google.com/search?q=https://github.com/RFOF-NETWORK/QCHC/issues%3Fassignees%3D%26labels%3DStrugled%2520Hacker%26template%3Dstrugled_hacker.md%26title%3DStrugle-Rehabillitation%2520als%2520Strugled-Hacker">
+<img src="https://img.shields.io/badge/⚠️%20Erkl%C3%A4re%20deine%20Strugle-hier%20klicken-orange?style=for-the-badge&logo=git-pull-request" alt="Erkläre deine Strugle">
+</a>
 </p>
 
 
 ## 📧 Kontakt
 
-Für weitere Fragen: <a href="mailto:info@rfofspidernet.de">info@rfofspidernet.de</a>
+Für weitere Fragen: <a href="mailto: nfo@rfofspidernet.de">info@rfofspidernet.de</a>
 
 -----
 
