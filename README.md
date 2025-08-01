@@ -40,7 +40,8 @@ Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull
 WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/issues">assignees=&labels=Waiting%20Hacker&template=waiting_hacker.md&title=Registrierung%20als%20Enthusiast">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues
+assignees=&labels=Strugled%20Hacker&template=strugled_hacker.md&title=Strugle-Rehabillitation%20als%20Strugled-Hacker">
     <img src="https://img.shields.io/badge/🔭%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge&logo=eye" alt="Werde ein Enthusiast">
   </a>
 </p>
