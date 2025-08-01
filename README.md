@@ -10,7 +10,7 @@ Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierte
 Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/issues/new?assignees=&labels=Bewerbung&template=bewerbungsformular.md&title=Bewerbung%20als%20Skill%20Hacker">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/discussions/17/assignees=&labels=Bewerbung&template=bewerbungsformular.md&title=Bewerbung%20als%20Skill%20Hacker">
     <img src="https://img.shields.io/badge/🚀%20Bewirb%20dich%20als%20Skill%20Hacker-jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=github" alt="Bewirb dich als Skill Hacker">
   </a>
 </p>
