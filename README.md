@@ -20,7 +20,7 @@ Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
 Auch wenn du noch nicht bereit bist für eine Bewerbung oder gerade keine passende Rolle frei ist, zeige dein Interesse und bleibe informiert:
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/issues/new?assignees=&labels=Waiting%20Hacker&template=waiting_hacker.md&title=Registrierung%20als%20Enthusiast">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/discussions/1?assignees=&labels=Waiting%20Hacker&template=waiting_hacker.md&title=Registrierung%20als%20Enthusiast">
     <img src="https://img.shields.io/badge/🔭%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge&logo=eye" alt="Werde ein Enthusiast">
   </a>
 </p>
