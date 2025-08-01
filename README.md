@@ -40,7 +40,7 @@ Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull
 WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
 
 <p align="center">
-  <a href="https://www.google.com/search?q=https://github.com/RFOF-NETWORK/QCHC/issues">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues">
     <img src="https://img.shields.io/badge/⚠️%20Erkl%C3%A4re%20deine%20Strugle-hier%20klicken-orange?style=for-the-badge&logo=git-pull-request" alt="Erkläre deine Strugle">
   </a>
 </p>
