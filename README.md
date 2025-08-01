@@ -27,13 +27,24 @@ Auch wenn du noch nicht bereit bist für eine Bewerbung oder gerade keine passen
 
 ## 🗣️ Diskussion und Pull Requests
 
-Alle Bewerbungen und Interessensbekundungen findest du in den Pull Requests:
+Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull Requests:
 
 <p align="center">
   <a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/pulls">
     <img src="https://img.shields.io/badge/Pull%20Requests-%F0%9F%93%92%20ansehen-success?style=for-the-badge&logo=git-pull-request" alt="Zu den Pull Requests">
   </a>
 </p>
+
+## 🕸️ISSUE⚠️ALERT🔊
+
+WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues">assignees=&labels=Waiting%20Hacker&template=waiting_hacker.md&title=Registrierung%20als%20Enthusiast">
+    <img src="https://img.shields.io/badge/🔭%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge&logo=eye" alt="Werde ein Enthusiast">
+  </a>
+</p>
+
 
 ## 📧 Kontakt
 
