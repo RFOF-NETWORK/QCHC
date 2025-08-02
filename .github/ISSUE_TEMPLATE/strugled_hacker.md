@@ -1,3 +1,12 @@
+---
+name: Strugle-Rehabilitation
+about: Erkläre deinen GitHub "Strugle" und erhalte Unterstützung!
+title: Strugle-Rehabilitation als Strugled-Hacker - [Kurze Problembeschreibung]
+labels: Strugled Hacker, Hilfe benötigt
+assignees: SatoramyPRAI, RFOF-NETWORK
+
+---
+
 ### ⚠️ Strugle-Rehabilitation: Hilfe für deinen GitHub "Strugle"
 
 **Hallo! Jeder hat mal einen "Strugle" – das ist kein Problem! Wir sind hier, um dir zu helfen, wieder auf Kurs zu kommen.**
@@ -33,4 +42,4 @@ Bitte fülle die folgenden Informationen aus, um uns dein Problem so klar wie m�
 
 ---
 
-Markdown
+Vielen Dank für deine Offenheit! Wir werden uns dein Problem ansehen und dir so schnell wie möglich helfen.
