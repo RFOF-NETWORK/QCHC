@@ -4,6 +4,8 @@ Willkommen im QCHC (Quantum-Core) Hackers Club! Verbessere deine GitHub-Skills m
 
 Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierten GitHub Skill Hacker Community zu werden?
 
+---
+
 ## 🚪 Werde ein QCHC Skill Hacker!
 
 Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
@@ -40,25 +42,13 @@ Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull
 
 ---
 
-## 🕸️ISSUE⚠️ALERT🔊
+## 🕸️ PROBLEMMELDUNG & HILFE⚠️🔊
 
-WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
-
-<p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=strugled_hacker.md&title=Strugle-Rehabilitation%20als%20Strugled-Hacker">
-    <img src="https://img.shields.io/badge/⚠️%20Erkl%C3%A4re%20deine%20Strugle-hier%20klicken-orange?style=for-the-badge&logo=git-pull-request" alt="Erkläre deine Strugle">
-  </a>
-</p>
-
----
-
-## 🐞 Fehler melden
-
-Du hast einen Fehler gefunden? Bitte melde ihn uns, damit wir ihn beheben können!
+Egal ob Bug, Frage oder "Strugle" – hier kannst du dein Anliegen einreichen!
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bug_report.md&title=Bug-Report:%20[Kurze%20Problembeschreibung]">
-    <img src="https://img.shields.io/badge/🐞%20Fehler%20melden-jetzt%20einreichen!-red?style=for-the-badge&logo=bugsnag" alt="Fehler melden">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=problem_meldung.md&title=Problem/Strugle:%20[Kurze%20Beschreibung%20des%20Anliegens]">
+    <img src="https://img.shields.io/badge/⚠️%20Problem%20melden%20/%20Hilfe%20erhalten-jetzt%20klicken!-red?style=for-the-badge&logo=bugsnag" alt="Problem melden / Hilfe erhalten">
   </a>
 </p>
 
@@ -95,9 +85,7 @@ Für weitere Fragen: [info@rfofspidernet.de](mailto:info@rfofspidernet.de)
 ---
 
 Wir freuen uns auf deine Beteiligung! ✨
----
-
-
+````
 
 
 **Was wurde gemacht:**
