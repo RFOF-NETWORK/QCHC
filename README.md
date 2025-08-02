@@ -4,25 +4,31 @@ Willkommen im QCHC (Quantum-Core) Hackers Club! Verbessere deine GitHub-Skills m
 
 Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierten GitHub Skill Hacker Community zu werden?
 
+---
+
 ## 🚪 Werde ein QCHC Skill Hacker!
 
 Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/discussions/17/assignees=&labels=Bewerbung&template=bewerbungsformular.md&title=Bewerbung%20als%20Skill%20Hacker">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbungsformular.md&title=Bewerbung%20als%20Skill%20Hacker">
     <img src="https://img.shields.io/badge/🚀%20Bewirb%20dich%20als%20Skill%20Hacker-jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=github" alt="Bewirb dich als Skill Hacker">
   </a>
 </p>
+
+---
 
 ## ⏳ Werde ein "Enthusiast" (Waiting Hacker)!
 
 Auch wenn du noch nicht bereit bist für eine Bewerbung oder gerade keine passende Rolle frei ist, zeige dein Interesse und bleibe informiert:
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/discussion/?assignees=&labels=Waiting%20Hacker&template=waiting_hacker.md&title=Registrierung%20als%20Enthusiast">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=waiting_hacker.md&title=Registrierung%20als%20Enthusiast">
     <img src="https://img.shields.io/badge/🔭%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge&logo=eye" alt="Werde ein Enthusiast">
   </a>
 </p>
+
+---
 
 ## 🗣️ Diskussion und Pull Requests
 
@@ -34,6 +40,7 @@ Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull
   </a>
 </p>
 
+---
 
 ## 🕸️ISSUE⚠️ALERT🔊
 
@@ -53,7 +60,12 @@ Für weitere Fragen: [info@rfofspidernet.de](mailto:info@rfofspidernet.de)
 
 ---
 
-Wir freuen uns auf deine Beteiligung! ✨
+Wir freuen uns auf deine Beteiligung! ✨# 🚀 QCHC - Die Schmiede der GitHub Skill Hacker 🛠️
+
+Willkommen im QCHC (Quantum-Core) Hackers Club! Verbessere deine GitHub-Skills mit [@SatoramyPRAI](https://github.com/SatoramyPRAI) & [@RFOF-NETWORK](https://github.com/RFOF-NETWORK-Ready-for-our-future). 📺⚙️👾
+
+Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierten GitHub Skill Hacker Community zu werden?
+
 
 
 
