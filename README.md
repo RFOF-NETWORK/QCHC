@@ -57,10 +57,108 @@ WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
 ## 📧 Kontakt
 
 Für weitere Fragen: [info@rfofspidernet.de](mailto:info@rfofspidernet.de)
+# 🚀 QCHC - Die Schmiede der GitHub Skill Hacker 🛠️
+
+Willkommen im QCHC (Quantum-Core) Hackers Club! Verbessere deine GitHub-Skills mit [@SatoramyPRAI](https://github.com/SatoramyPRAI) & [@RFOF-NETWORK](https://github.com/RFOF-NETWORK-Ready-for-our-future). 📺⚙️👾
+
+Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierten GitHub Skill Hacker Community zu werden?
 
 ---
 
-Wir freuen uns auf deine Beteiligung! ✨# 🚀 QCHC - Die Schmiede der GitHub Skill Hacker 🛠️
+## 🚪 Werde ein QCHC Skill Hacker!
+
+Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbungsformular-Skill-Hacker.md&title=Bewerbung%20als%20Skill%20Hacker">
+    <img src="https://img.shields.io/badge/🚀%20Bewirb%20dich%20als%20Skill%20Hacker-jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=github" alt="Bewirb dich als Skill Hacker">
+  </a>
+</p>
+
+---
+
+## ⏳ Werde ein "Enthusiast" (Waiting Hacker)!
+
+Auch wenn du noch nicht bereit bist für eine Bewerbung oder gerade keine passende Rolle frei ist, zeige dein Interesse und bleibe informiert:
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbungsformular-Waiting-Hacker.md&title=Registrierung%20als%20Enthusiast">
+    <img src="https://img.shields.io/badge/🔭%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge&logo=eye" alt="Werde ein Enthusiast">
+  </a>
+</p>
+
+---
+
+## 🗣️ Diskussion und Pull Requests
+
+Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull Requests:
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/pulls">
+    <img src="https://img.shields.io/badge/Pull%20Requests-%F0%9F%93%92%20ansehen-success?style=for-the-badge&logo=git-pull-request" alt="Zu den Pull Requests">
+  </a>
+</p>
+
+---
+
+## 🕸️ISSUE⚠️ALERT🔊
+
+WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=strugled_hacker.md&title=Strugle-Rehabilitation%20als%20Strugled-Hacker">
+    <img src="https://img.shields.io/badge/⚠️%20Erkl%C3%A4re%20deine%20Strugle-hier%20klicken-orange?style=for-the-badge&logo=git-pull-request" alt="Erkläre deine Strugle">
+  </a>
+</p>
+
+---
+
+## 🐞 Fehler melden
+
+Du hast einen Fehler gefunden? Bitte melde ihn uns, damit wir ihn beheben können!
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bug_report.md&title=Bug-Report:%20[Kurze%20Problembeschreibung]">
+    <img src="https://img.shields.io/badge/🐞%20Fehler%20melden-jetzt%20einreichen!-red?style=for-the-badge&logo=bugsnag" alt="Fehler melden">
+  </a>
+</p>
+
+---
+
+## 💰 Engagiere dich in unseren BTC-Projekten
+
+Interesse an rBTC, tgBTC, wBTC oder anderen Bitcoin-bezogenen Initiativen? Bewirb dich hier!
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbung-btc.md&title=BTC-Projekt%20Bewerbung:%20[Dein%20Name/Organisation]">
+    <img src="https://img.shields.io/badge/💰%20F%C3%BCr%20BTC--Projekte%20bewerben-jetzt%20einreichen!-yellowgreen?style=for-the-badge&logo=bitcoin" alt="BTC Projekte">
+  </a>
+</p>
+
+---
+
+## 🌐 #BitcoinInternet
+
+Tauche ein in die Vision eines dezentralen Internets auf Basis von Bitcoin und zeige dein Interesse!
+
+<p align="center">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=interessenbekundung-bitcoininternet.md&title=Interessenbekundung%20%23BitcoinInternet">
+    <img src="https://img.shields.io/badge/🌐%20#BitcoinInternet-Interesse%20zeigen!-blue?style=for-the-badge&logo=internet-explorer" alt="#BitcoinInternet">
+  </a>
+</p>
+
+---
+
+## 📧 Kontakt
+
+Für weitere Fragen: [info@rfofspidernet.de](mailto:info@rfofspidernet.de)
+
+---
+
+Wir freuen uns auf deine Beteiligung! ✨
+---
+
+# 🚀 QCHC - Die Schmiede der GitHub Skill Hacker 🛠️
 
 Willkommen im QCHC (Quantum-Core) Hackers Club! Verbessere deine GitHub-Skills mit [@SatoramyPRAI](https://github.com/SatoramyPRAI) & [@RFOF-NETWORK](https://github.com/RFOF-NETWORK-Ready-for-our-future). 📺⚙️👾
 
