@@ -6,6 +6,17 @@ Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierte
 
 ---
 
+<div class="button-group">
+    <a href="https://github.com/RFOF-NETWORK/QCHC/discussions/9" class="button button-enthusiast" target="_blank" rel="noopener noreferrer">
+        @RFOF-NETWORK Contributing & Member Shipping
+    </a>
+    <a href="https://github.com/RFOF-NETWORK/QCHC/discussions/8" class="button button-enthusiast" target="_blank" rel="noopener noreferrer">
+        DoraHacks Contributing & Member Shipping
+    </a>
+</div>
+
+---
+
 ## 🚪 Werde ein QCHC Skill Hacker!
 
 Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
