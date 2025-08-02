@@ -6,17 +6,27 @@ Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierte
 
 ---
 
-<div class="button-group">
-    <a href="https://github.com/RFOF-NETWORK/QCHC/discussions/9" class="button button-enthusiast" target="_blank" rel="noopener noreferrer">
-        @RFOF-NETWORK Contributing & Member Shipping
-    </a>
-    <a href="https://github.com/RFOF-NETWORK/QCHC/discussions/8" class="button button-enthusiast" target="_blank" rel="noopener noreferrer">
-        DoraHacks Contributing & Member Shipping
-    </a>
-</div>
+## @RFOF-NETWORK Contributing & Member Shipping 🧠
+
+<a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=rfof_network_contributing_member_shipping.md&title=%40RFOF-NETWORK+Contributing+%26+Member+Shipping" 
+   class="button button-enthusiast" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    @RFOF-NETWORK Contributing & Member Shipping
+</a>
 
 ---
 
+## @DoraHacks Contributing & Member Shipping
+
+<a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=dorahacks_contributing_member_shipping.md&title=DoraHacks+Contributing+%26+Member+Shipping" 
+   class="button button-enthusiast" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    DoraHacks Contributing & Member Shipping
+</a>
+
+---
 ## 🚪 Werde ein QCHC Skill Hacker!
 
 Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
