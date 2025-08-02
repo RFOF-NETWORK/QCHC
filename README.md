@@ -10,23 +10,24 @@ Bist du bereit, deine Expertise einzubringen?
 
 Wir suchen visionäre Köpfe, die das #BitcoinInternet mit uns gestalten wollen. Entdecke die Möglichkeiten zur Beteiligung:
 
-## 🧠 @RFOF-NETWORK Contributing & Member Shipping 🚀
+## @RFOF-NETWORK Contributing & Member Shipping 🚀
 
 <p align="center">
+  <img src="https://github.com/RFOF-NETWORK/RFOF-NETWORK/raw/main/assets/rotating_cyber_brain.svg" width="30" height="30" style="vertical-align: middle;">
   <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=rfof_network_contributing_member_shipping.md&title=%40RFOF-NETWORK+Contributing+%26+Member+Shipping">
-    <img src="https://img.shields.io/badge/%40RFOF--NETWORK%20Contributing%20%26%20Member%20Shipping-%F0%9F%9A%80%20jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=[HIER_DEN_BASE64_CODE_DES_RFOF_NETWORK_LOGOS_EINFUEGEN_OHNE_data:image/svg+xml;base64,]&logoColor=white" alt="@RFOF-NETWORK Contributing & Member Shipping">
+    <img src="https://img.shields.io/badge/%40RFOF--NETWORK%20Contributing%20%26%20Member%20Shipping-%F0%9F%9A%80%20jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=[BASE64_CODE_DES_RFOF_KREIS_LOGOS_HIER]&logoColor=white" alt="@RFOF-NETWORK Contributing & Member Shipping">
   </a>
 </p>
-*Hinweis: Ersetze `[HIER_DEN_BASE64_CODE_DES_RFOF_NETWORK_LOGOS_EINFUEGEN_OHNE_data:image/svg+xml;base64,]` durch den Base64-String des `rotating_cyber_brain.svg`-Logos. Der String sollte **nicht** das Präfix `data:image/svg+xml;base64,` enthalten, nur den kodierten Teil.*
+*Hinweis: Bitte ersetze `[BASE64_CODE_DES_RFOF_KREIS_LOGOS_HIER]` mit dem Base64-kodierten String des kreisförmigen RFOF-Logos (ohne `data:image/svg+xml;base64,` Präfix). Die Rotation des Cyber Brains als separate `<img>` ist die beste Methode für `README.md`, da Shields.io keine direkten CSS-Animationen im `logo=` Parameter unterstützt.*
 
-## ⛏️ DoraHacks Contributing & Member Shipping 🚀
+## DoraHacks Contributing & Member Shipping 🚀
 
 <p align="center">
   <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=dorahacks_contributing_member_shipping.md&title=DoraHacks+Contributing+%26+Member+Shipping">
-    <img src="https://img.shields.io/badge/DoraHacks%20Contributing%20%26%20Member%20Shipping-%F0%9F%9A%80%20jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=[HIER_DEN_BASE64_CODE_DES_DORAHACKS_LOGOS_EINFUEGEN_OHNE_data:image/svg+xml;base64,]&logoColor=white" alt="DoraHacks Contributing & Member Shipping">
+    <img src="https://img.shields.io/badge/DoraHacks%20Contributing%20%26%20Member%20Shipping-%F0%9F%9A%80%20jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=[BASE64_CODE_DES_DORAHACKS_LOGOS_HIER]&logoColor=white" alt="DoraHacks Contributing & Member Shipping">
   </a>
 </p>
-*Hinweis: Ersetze `[HIER_DEN_BASE64_CODE_DES_DORAHACKS_LOGOS_EINFUEGEN_OHNE_data:image/svg+xml;base64,]` durch den Base64-String des DoraHacks SVG-Logos. Wenn du kein SVG hast, kannst du hier auch ein passendes Shields.io-Standardlogo verwenden (z.B. `logo=dora` falls es existiert, oder ein anderes passendes Icon wie `logo=hackthebox`). Alternativ kannst du auch ein Emoji wie `logo=%E2%9A%92%EF%B8%8F` (⛏️) direkt im Badge-Text nutzen, wie ich es zuvor versucht hatte, wenn ein direktes Logo nicht möglich ist.*
+*Hinweis: Bitte ersetze `[BASE64_CODE_DES_DORAHACKS_LOGOS_HIER]` mit dem Base64-kodierten String des DoraHacks SVG/PNG-Logos (ohne `data:image/svg+xml;base64,` Präfix).*
 
 ---
 
@@ -107,6 +108,16 @@ Für weitere Fragen: [info@rfofspidernet.de](mailto:info@rfofspidernet.de)
 ---
 
 Wir freuen uns auf deine Beteiligung! ✨
+````
+---
+
+*Was wurde gemacht:*
+* Die einleitenden Sätze beider Versionen wurden kombiniert.
+* Der Abschnitt "So funktioniert die Bewerbung" wurde verschlankt.
+* Der Abschnitt "Bewerbungsformular" wurde direkt in den `ISSUE_TEMPLATE`-Ordner als `bewerbung-qchc-skill-hacker.md` verschoben.
+* Der Abschnitt "Registrierung als QCHC Enthusiast (Waiting Hacker)" wurde in den `ISSUE_TEMPLATE`-Ordner als `waiting_hacker.md` verschoben.
+* Die notwendigen Daten im `github/ISSUE_TEMPLATE`-Ordner.
+* **Korrektur der DoraHacks- und @RFOF-NETWORK-Buttons gemäß den neuesten Spezifikationen für Logos und rotierende SVGs (mit Hinweisen zu Base64-Kodierung).**
 
 ---
 
