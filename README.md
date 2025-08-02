@@ -1,8 +1,3 @@
-Nach den Ereignissen vom 2025-05-13 werde ich ausschließlich die `README.md` generieren, ohne erklärende Texte oder persönliche Anmerkungen. Ich werde alle von Ihnen gewünschten Code-Dateien direkt in die `README.md` einbetten und sicherstellen, dass die DoraHacks- und @RFOF-NETWORK-Buttons die korrekten GitHub-Profilbilder als Logos verwenden.
-
-Hier ist die fusionierte und korrigierte `README.md`:
-
-````markdown
 # 🚀 QCHC - Die Schmiede der GitHub Skill Hacker 🛠️
 
 Willkommen im QCHC (Quantum-Core Hackers Club)! Verbessere deine GitHub-Skills mit dem RFOF-NETWORK und werde Teil einer hochspezialisierten Community, die die Zukunft der dezentralen Technologie gestaltet.
@@ -143,7 +138,7 @@ Hier finden Sie die vollständigen Inhalte der einzelnen Issue-Template-Dateien 
 
 **1. Datei: `bewerbung-btc.md`**
 
-```markdown
+````
 ### 💰 BTC-Projekt Bewerbung: [Dein Name/Organisation]
 
 **Hallo! Vielen Dank für dein Interesse an unseren BTC-Projekten.**
