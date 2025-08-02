@@ -1,45 +1,57 @@
 ---
-name: Strugle-Rehabilitation
-about: Erkläre deinen GitHub "Strugle" und erhalte Unterstützung!
-title: Strugle-Rehabilitation als Strugled-Hacker - [Kurze Problembeschreibung]
-labels: Strugled Hacker, Hilfe benötigt
+name: Problem melden oder Strugle erklären
+about: Melde einen Fehler, stelle eine Frage oder erkläre einen "Strugle" für Unterstützung.
+title: Problem/Strugle: [Kurze Beschreibung des Anliegens]
+labels: Problem, Bug, Hilfe benötigt, Strugled Hacker
 assignees: SatoramyPRAI, RFOF-NETWORK
 
 ---
 
-### ⚠️ Strugle-Rehabilitation: Hilfe für deinen GitHub "Strugle"
+### ⚠️ Problem melden oder Strugle erklären – Wir helfen dir!
 
-**Hallo! Jeder hat mal einen "Strugle" – das ist kein Problem! Wir sind hier, um dir zu helfen, wieder auf Kurs zu kommen.**
+**Hallo! Egal ob technischer Fehler oder eine Herausforderung, die dich blockiert – wir sind hier, um dich zu unterstützen.**
 
-Bitte fülle die folgenden Informationen aus, um uns dein Problem so klar wie möglich zu schildern. Je detaillierter du bist, desto besser können wir dich unterstützen.
+Bitte fülle die folgenden Informationen sorgfältig aus, um uns dein Anliegen so klar wie möglich zu schildern. Je detaillierter du bist, desto besser können wir dir helfen.
 
 ---
 
-**1. Was ist dein "Strugle"? Beschreibe dein Problem kurz und prägnant.**
-* *(Beispiel: "Ich verstehe nicht, wie man einen Pull Request richtig erstellt." oder "Meine GitHub Action schlägt immer mit einem bestimmten Fehler fehl.")*
-[Bitte hier dein Problem beschreiben]
+**1. Art deines Anliegens:**
+*(Bitte wähle das Zutreffendste aus.)*
+- [ ] Ich möchte einen **Bug (Fehler)** melden.
+- [ ] Ich habe einen **"Strugle" / eine Herausforderung** und benötige Unterstützung.
+- [ ] Ich habe eine **generelle Frage** zur Nutzung oder zum Verständnis.
 
-**2. Was hast du bereits versucht, um das Problem zu lösen?**
-* *(Hast du Dokumentationen gelesen? Tutorials angeschaut? Bestimmte Befehle ausgeführt?)*
+---
+
+**2. Beschreibung deines Problems / Strugles / Frage:**
+*(Beschreibe klar und prägnant, was passiert ist, was du nicht verstehst oder welche Frage du hast.)*
+*(Beispiel Bug: "Die Schaltfläche 'X' führt nicht zur erwarteten Seite.")*
+*(Beispiel Strugle: "Ich verstehe nicht, wie ich mein Repository korrekt forken und klonen kann.")*
+[Bitte hier dein Anliegen beschreiben]
+
+---
+
+**3. Schritte zum Reproduzieren (falls es ein Bug ist oder ein spezifisches Verhalten betrifft):**
+*(Beschreibe, wie man das Problem nachstellen kann. So können wir es am besten untersuchen.)*
+1. Gehe zu '...'
+2. Klicke auf '....'
+3. Scrolle zu '....'
+4. Siehe 'Fehler' oder 'Unerwartetes Verhalten'
+[Liste hier die Schritte zur Reproduktion auf, falls zutreffend]
+
+---
+
+**4. Erwartetes Verhalten (falls es ein Bug ist oder ein unerwünschtes Verhalten betrifft):**
+*(Beschreibe, was stattdessen passieren oder wie es sich verhalten sollte.)*
+[Beschreibe hier das erwartete Verhalten]
+
+---
+
+**5. Was hast du bereits versucht, um das Problem/den Strugle zu lösen?**
+*(Hast du Dokumentationen gelesen? Tutorials angeschaut? Bestimmte Befehle ausgeführt?)*
 [Beschreibe hier deine bisherigen Lösungsversuche]
 
-**3. Welche Fehlermeldungen (falls vorhanden) siehst du?**
-* *(Bitte kopiere relevante Fehlermeldungen vollständig hierher. Nutze Code-Blöcke für bessere Lesbarkeit.)*
-[Füge hier Fehlermeldungen ein]
-
-
-**4. Kontext: Wo tritt das Problem auf?**
-* *(In welchem Repository? Bei welcher Aktion? Auf welcher Plattform/OS?)*
-[Beschreibe hier den Kontext deines Problems]
-
-**5. Was ist das gewünschte Ergebnis? Was möchtest du erreichen?**
-* *(Beispiel: "Ich möchte, dass mein Pull Request fehlerfrei gemergt wird." oder "Meine GitHub Action soll erfolgreich durchlaufen.")*
-[Beschreibe hier dein gewünschtes Ergebnis]
-
-**6. Zusätzliche Informationen (optional):**
-* *(Gibt es Links zu deinem Repository, Screenshots, oder andere Details, die uns helfen könnten?)*
-[Füge hier optionale Informationen oder Links ein]
-
 ---
 
-Vielen Dank für deine Offenheit! Wir werden uns dein Problem ansehen und dir so schnell wie möglich helfen.
+**6. Fehlermeldungen, Logs oder relevante Ausgaben (falls vorhanden):**
+*(Bitte kopiere relevante Fehlermeldungen, Konsolen-Logs oder andere Ausgaben vollständig hierher. Nutze Code-Blöcke für bessere Lesbarkeit.)*
