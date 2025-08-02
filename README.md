@@ -11,7 +11,7 @@ Bist du bereit, deine Expertise einzubringen und Teil unserer hochspezialisierte
 Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbungsformular-Skill-Hacker.md&title=Bewerbung%20als%20Skill%20Hacker">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbungsformular-Skill_Hacker.md&title=Bewerbung%20als%20Skill%20Hacker">
     <img src="https://img.shields.io/badge/🚀%20Bewirb%20dich%20als%20Skill%20Hacker-jetzt%20einreichen!-blueviolet?style=for-the-badge&logo=github" alt="Bewirb dich als Skill Hacker">
   </a>
 </p>
@@ -23,7 +23,7 @@ Klicke hier, um dich zu bewerben und deine Skills zu zeigen:
 Auch wenn du noch nicht bereit bist für eine Bewerbung oder gerade keine passende Rolle frei ist, zeige dein Interesse und bleibe informiert:
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbungsformular-Waiting-Hacker.md&title=Registrierung%20als%20Enthusiast">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=bewerbungsformular-Waiting_Hacker.md&title=Registrierung%20als%20Enthusiast">
     <img src="https://img.shields.io/badge/🔭%20Werde%20ein%20Enthusiast-registrieren-lightgrey?style=for-the-badge&logo=eye" alt="Werde ein Enthusiast">
   </a>
 </p>
