@@ -40,13 +40,13 @@ Auch wenn du noch nicht bereit bist für eine Bewerbung oder gerade keine passen
 
 ---
 
-## 🕸️ PROBLEMMELDUNG & HILFE⚠️🔊
+## 🕸️ISSUE⚠️ALERT🔊
 
-Egal ob Bug, Frage oder "Strugle" – hier kannst du dein Anliegen einreichen!
+WENN DU EINE FRAGE HAST DANN STELLEN SIE EINE ISSUE ANFRAGE👨‍💻
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=problem_meldung.md&title=Problem/Strugle:%20[Kurze%20Beschreibung%20des%20Anliegens]">
-    <img src="https://img.shields.io/badge/⚠️%20Problem%20melden%20/%20Hilfe%20erhalten-jetzt%20klicken!-red?style=for-the-badge&logo=bugsnag" alt="Problem melden / Hilfe erhalten">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=strugled_hacker.md&title=Strugle-Rehabilitation%20als%20Strugled-Hacker">
+    <img src="https://img.shields.io/badge/⚠️%20Erkl%C3%A4re%20deine%20Strugle-hier%20klicken-orange?style=for-the-badge&logo=git-pull-request" alt="Erkläre deine Strugle">
   </a>
 </p>
 
