@@ -27,6 +27,8 @@ Engagiere dich in unseren DoraHacks-Initiativen und werde Teil unserer globalen 
 <p align="center">
   <a href="https://github.com/RFOF-NETWORK/QCHC/issues/new?template=dorahacks_contributing_member_shipping.md&title=DoraHacks+Contributing+%26+Member+Shipping">
     <img src="
+   </a>
+</p>
 ---
 
 ## 🚪 Werde ein QCHC Skill Hacker!
