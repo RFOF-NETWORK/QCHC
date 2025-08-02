@@ -30,13 +30,11 @@ Auch wenn du noch nicht bereit bist für eine Bewerbung oder gerade keine passen
 
 ---
 
-## 🗣️ Diskussion und Pull Requests
-
-Alle erfolgreichen Bewerbungen und Interessensbekundungen findest du in den Pull Requests:
+## 🗣️ Drive in Our Quantum Core Hardware Discussions to Contribute directly with Pull Requests after an Admin Answer
 
 <p align="center">
-  <a href="https://github.com/RFOF-NETWORK-Ready-for-our-future/QCHC/pulls">
-    <img src="https://img.shields.io/badge/Pull%20Requests-%F0%9F%93%92%20ansehen-success?style=for-the-badge&logo=git-pull-request" alt="Zu den Pull Requests">
+  <a href="https://github.com/RFOF-NETWORK/QCHC/discussions">
+    <img src="https://img.shields.io/badge/💬%20Zu%20den%20Diskussionen%20&%20Pull%20Requests-jetzt%20mitmachen!-success?style=for-the-badge&logo=discourse" alt="Zu den Diskussionen & Pull Requests">
   </a>
 </p>
 
