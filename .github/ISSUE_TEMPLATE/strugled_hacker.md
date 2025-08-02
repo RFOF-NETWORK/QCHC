@@ -1,10 +1,9 @@
 ---
 name: Problem melden oder Strugle erklären
 about: Melde einen Fehler, stelle eine Frage oder erkläre einen "Strugle" für Unterstützung.
-title: Problem/Strugle: [Kurze Beschreibung des Anliegens]
-labels: Problem, Bug, Hilfe benötigt, Strugled Hacker
-assignees: SatoramyPRAI, RFOF-NETWORK
-
+title: "Problem/Strugle: " # Hier den Titel mit Anführungszeichen, da er einen Doppelpunkt enthält
+labels: ["Problem", "Bug", "Hilfe benötigt", "Strugled Hacker"] # Labels als Liste
+assignees: ["SatoramyPRAI", "RFOF-NETWORK"] # Assignees als Liste
 ---
 
 ### ⚠️ Problem melden oder Strugle erklären – Wir helfen dir!
@@ -24,7 +23,7 @@ Bitte fülle die folgenden Informationen sorgfältig aus, um uns dein Anliegen s
 ---
 
 **2. Beschreibung deines Problems / Strugles / Frage:**
-*(Beschreibe klar und prägnant, was passiert ist, was du nicht verstehst oder welche Frage du hast.)*
+*(Beschreibe klar und prägnant, was passiert ist, was du nicht versteht oder welche Frage du hast.)*
 *(Beispiel Bug: "Die Schaltfläche 'X' führt nicht zur erwarteten Seite.")*
 *(Beispiel Strugle: "Ich verstehe nicht, wie ich mein Repository korrekt forken und klonen kann.")*
 [Bitte hier dein Anliegen beschreiben]
@@ -33,10 +32,10 @@ Bitte fülle die folgenden Informationen sorgfältig aus, um uns dein Anliegen s
 
 **3. Schritte zum Reproduzieren (falls es ein Bug ist oder ein spezifisches Verhalten betrifft):**
 *(Beschreibe, wie man das Problem nachstellen kann. So können wir es am besten untersuchen.)*
-1. Gehe zu '...'
-2. Klicke auf '....'
-3. Scrolle zu '....'
-4. Siehe 'Fehler' oder 'Unerwartetes Verhalten'
+1. Go to '...'
+2. Click on '....'
+3. Scroll to '....'
+4. See 'Fehler' oder 'Unerwartetes Verhalten'
 [Liste hier die Schritte zur Reproduktion auf, falls zutreffend]
 
 ---
