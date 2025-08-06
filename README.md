@@ -105,6 +105,7 @@ Tauche ein in die Vision eines dezentralen Internets auf Basis von Bitcoin und z
 ## 📧 Kontakt
 
 Launch Telegram Chanel [InterBOxSpider@Web.NET](https://t.me/Majorana12)
+---
 Für weitere Fragen: [info@rfofspidernet.de](mailto:info@rfofspidernet.de)
 
 ---
